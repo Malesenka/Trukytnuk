@@ -1,6 +1,6 @@
 {
   "name": "trukytnuk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Trukytnuk",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "morvunka228": "1.0.1",
-    "tea": "1.0.0"
+    "paket228": "1.0.3"
   },
   "author": "",
   "license": "ISC",
